@@ -68,6 +68,6 @@ This project was one of the outcomes of a short hackfest and was developed by th
 fantastic team of people (in alphabetical order):
 * Wagner Alves
 * [Toby Bradshaw](https://github.com/tobybrad)
-* [João Goncalves]
+* João Goncalves
 * [Tomi Paananen](https://github.com/tompaana)
 * [Anita Ramanan](https://github.com/anraman)
