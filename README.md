@@ -52,7 +52,7 @@ subtitles, which are produced by transcribing the audio in the media.
 
 This is not a production-ready piece of code, but rather a proof-of-concept.
 Stuff missing/to consider:
-* Universal Windows application are not supported - please support/contribute to the awesome
+* Universal Windows applications are not supported - please support/contribute to the awesome
   [NAudio project](https://github.com/naudio/NAudio) in order to enable UWP compatibility.
 * The media chunks are processed as they come (via the playlist). Thus, if/when the audio in
   the chunk is terminated in the middle of a word, the transcription is incomplete
